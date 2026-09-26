@@ -74,3 +74,20 @@ Award
 Payment
    ↓
 Completed
+## Screenshots
+
+### Home Page
+
+![Bursary System Home Page](screenshots/home.png)
+
+### Applicant Dashboard
+
+![Applicant Dashboard](screenshots/applicant-dashboard.png)
+
+### Admin Dashboard
+
+![Admin Dashboard](screenshots/admin-dashboard.png)
+
+### Application Review
+
+![Application Review](screenshots/application-review.png)
