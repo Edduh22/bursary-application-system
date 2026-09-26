@@ -1,12 +1,12 @@
-# Bursary Application System
+Bursary Application System
 
 A web-based bursary application and management system developed using PHP, MySQL, Bootstrap, HTML, CSS and JavaScript.
 
 The system provides an online platform where applicants can register, complete their profiles, submit bursary applications and track their application status. Administrators can verify documents, review applications, manage awards and payments, and generate reports.
 
-## Features
+Features
 
-### Applicant Module
+Applicant Module
 
 - Applicant registration and login
 - Applicant profile management
@@ -20,7 +20,7 @@ The system provides an online platform where applicants can register, complete t
 - Online application submission
 - Application status tracking
 
-### Administrator Module
+Administrator Module
 
 - Secure administrator login
 - Admin dashboard
@@ -36,9 +36,8 @@ The system provides an online platform where applicants can register, complete t
 - User and role management
 - System settings
 
-## Application Workflow
+ Application Workflow
 
-```text
 Register
    ↓
 Login
@@ -74,20 +73,21 @@ Award
 Payment
    ↓
 Completed
-## Screenshots
 
-### Home Page
+Screenshots
+
+Home Page
 
 ![Bursary System Home Page](screenshots/home.png)
 
-### Applicant Dashboard
+Applicant Dashboard
 
 ![Applicant Dashboard](screenshots/applicant-dashboard.png)
 
-### Admin Dashboard
+Admin Dashboard
 
 ![Admin Dashboard](screenshots/admin-dashboard.png)
 
-### Application Review
+Application Review
 
 ![Application Review](screenshots/application-review.png)
